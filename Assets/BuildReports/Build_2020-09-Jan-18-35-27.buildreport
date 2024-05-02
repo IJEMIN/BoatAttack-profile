@@ -2,7 +2,6 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!1126 &-8507282475154713250
 PackedAssets:
-  m_File: 182
   m_ShortPath: sharedassets0.assets
   m_Overhead: 16594
   m_Contents:
@@ -3938,7 +3937,6 @@ PackedAssets:
     buildTimeAssetPath: Assets/Objects/Levels/Island/Terrain_1_0_ab8b1dcb-43d9-4bce-bf29-975c43453226.asset
 --- !u!1126 &-7441680747869892637
 PackedAssets:
-  m_File: 181
   m_ShortPath: resources.assets
   m_Overhead: 30493
   m_Contents:
@@ -12298,7 +12296,6 @@ AudioBuildInfo:
   m_AudioMixerCount: 0
 --- !u!1126 &-6656873002785782750
 PackedAssets:
-  m_File: 190
   m_ShortPath: sharedassets1.assets.resS
   m_Overhead: 3
   m_Contents:
@@ -12460,13 +12457,11 @@ PackedAssets:
     buildTimeAssetPath: Assets/scenes/_levels/level_Island/ReflectionProbe-2.exr
 --- !u!1126 &-5526288788257030043
 PackedAssets:
-  m_File: 185
   m_ShortPath: level0.resS
   m_Overhead: 584920
   m_Contents: []
 --- !u!1126 &-5450992460119698307
 PackedAssets:
-  m_File: 189
   m_ShortPath: sharedassets0.resource
   m_Overhead: 0
   m_Contents:
@@ -12490,7 +12485,6 @@ PackedAssets:
     buildTimeAssetPath: Assets/Audio/Music/works03.wav
 --- !u!1126 &-3478817452939636242
 PackedAssets:
-  m_File: 188
   m_ShortPath: sharedassets0.assets.resS
   m_Overhead: 7
   m_Contents:
@@ -12843,7 +12837,6 @@ PluginBuildInfo:
   - libfccore
 --- !u!1126 &-923141472655319144
 PackedAssets:
-  m_File: 186
   m_ShortPath: level1.resS
   m_Overhead: 23517720
   m_Contents: []
@@ -12861,6 +12854,7 @@ BuildReport:
     buildGUID: b13a26546a76b42a389e158440b4c45c
     platformName: OSXUniversal
     platformGroupName: Standalone
+    subtarget: 0
     options: 265
     assetBundleOptions: 0
     outputPath: /Users/andrem/Documents/GitRepos/BoatAttack/Builds/BoatDemo.app
@@ -12871,6 +12865,7 @@ BuildReport:
     totalWarnings: 4
     buildType: 1
     buildResult: 1
+    multiProcessEnabled: 0
   m_Files:
   - path: /Users/andrem/Documents/GitRepos/BoatAttack/Builds/BoatDemo.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll
     role: ManagedEngineAPI
@@ -13786,7 +13781,6 @@ BuildReport:
   - {fileID: 2217738019181976142}
 --- !u!1126 &759213947936581694
 PackedAssets:
-  m_File: 187
   m_ShortPath: resources.assets.resS
   m_Overhead: 1
   m_Contents:
@@ -13846,7 +13840,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 --- !u!1126 &4855942719281004908
 PackedAssets:
-  m_File: 184
   m_ShortPath: globalgamemanagers.assets.resS
   m_Overhead: 0
   m_Contents:
@@ -14134,7 +14127,6 @@ PackedAssets:
     buildTimeAssetPath: Packages/com.unity.render-pipelines.universal/Textures/BlueNoise16/L/LDR_LLL1_28.png
 --- !u!1126 &5600160720770638693
 PackedAssets:
-  m_File: 183
   m_ShortPath: sharedassets1.assets
   m_Overhead: 4291
   m_Contents:
@@ -14656,7 +14648,6 @@ PackedAssets:
     buildTimeAssetPath: Assets/Objects/Levels/Island/IntroCamerasTimeline.playable
 --- !u!1126 &7437324490088979084
 PackedAssets:
-  m_File: 180
   m_ShortPath: globalgamemanagers.assets
   m_Overhead: 32027
   m_Contents:

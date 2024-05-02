@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_BuildTarget: 9
   m_Subtarget: 0
-  m_ModuleName: iOS
+  m_PlatformId: ad48d16a66894befa4d8181998c3cb09
   m_PlatformBuildProfile:
     rid: 1451839667763937283
   m_Scenes:
@@ -26,6 +26,9 @@ MonoBehaviour:
     m_path: Assets/scenes/_levels/level_Island.unity
   - m_enabled: 0
     m_path: Assets/scenes/Testing/benchmark_island-static.unity
+  m_ScriptingDefines: []
+  m_PlayerSettingsYaml:
+    m_Settings: []
   references:
     version: 2
     RefIds:
